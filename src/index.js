@@ -1,1 +1,3 @@
-console.log('xd');
+export default {
+  SlskClient: require('./SlskClient.js')
+}
