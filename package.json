@@ -21,6 +21,8 @@
     "babel-watch": "^2.0.5"
   },
   "dependencies": {
-    "postinstall-build": "^2.1.3"
+    "js-md5": "^0.4.2",
+    "postinstall-build": "^2.1.3",
+    "promise": "^7.1.1"
   }
 }
