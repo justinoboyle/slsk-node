@@ -2,8 +2,8 @@ var fs = require('fs');
 var path = require('path');
 var pkg = require('./package');
 
-var buildpath = path.join(__dirname, package['main-build']);
-var srcpath =  path.join(__dirname, package['main-src']);
+var buildpath = path.join(__dirname, pkg['main-build']);
+var srcpath =  path.join(__dirname, pkg['main-src']);
 
 module.exports = (function() {
   if(fs.existsSync(buildpath))

@@ -1,6 +1,6 @@
 {
   "name": "slsk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "entry.js",
   "main-build": "build/index.js",
